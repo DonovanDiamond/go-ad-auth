@@ -3,7 +3,7 @@ module github.com/korylprince/go-ad-auth/v3
 go 1.13
 
 require (
-	github.com/go-asn1-ber/asn1-ber v1.4.1 // indirect
-	github.com/go-ldap/ldap/v3 v3.1.7
-	golang.org/x/text v0.3.2
+	github.com/go-ldap/ldap/v3 v3.4.10
+	golang.org/x/crypto v0.32.0 // indirect
+	golang.org/x/text v0.21.0
 )
